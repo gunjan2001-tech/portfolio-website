@@ -186,8 +186,12 @@ li a:hover {
 
 
 .dark-mode {
-    background-color: var(--primary-dark);
-    color: #ffffff;
+    /* background-color: var(--primary-dark);
+    color: #ffffff; */
+    
+        background-color: #333;
+        color: #fff;
+   
 }
 
 .mode input {
